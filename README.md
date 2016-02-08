@@ -1,0 +1,2 @@
+# timer
+Simply training program
